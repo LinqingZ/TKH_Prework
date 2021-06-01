@@ -17,5 +17,5 @@ def largest(a, b):
     else:
         return b
 
-num_largest=largest(8, 6)
-print (num_largest)
+big_name=largest(8, 6)
+print (big_name)
