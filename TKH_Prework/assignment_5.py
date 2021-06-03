@@ -4,8 +4,7 @@ print(thing[2])
 list=["one", 2,"3hree"]
 print(list[2])
 
-even=0
-odd=1
+
 b=[]
 c=[]
 names_list = ["bob","jimmy","max b", "bernie", "jordan", "future hendrix"]
